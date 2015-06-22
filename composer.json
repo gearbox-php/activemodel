@@ -1,7 +1,7 @@
 {
-    "name": "gearbox/actionmodel",
+    "name": "gearbox/activemodel",
     "type": "library",
-    "description": "Gearbox PHP / Actionmodel",
+    "description": "Gearbox PHP / ActiveModel",
     "keywords": ["framework"],
     "homepage": "http://gabrielrosas.com",
     "version": "dev-master",
@@ -17,7 +17,7 @@
     "autoload": {
         "files": ["build.php"],
         "classmap": [
-          "lib/action_model.php"
+          "lib/active_model.php"
         ]
     }
 }
